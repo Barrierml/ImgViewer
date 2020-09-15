@@ -71,6 +71,4 @@ ImgViewer.BindAllImg(/hahah/)
 ```
 
 ## 帮助
-如果你在使用过程中发现任何问题，可以 提交 [提交issue](https://github.com/Barrierml/ImgViewer/issues) 或自行 fork 修改后提交 pull request。
-
-如果你要提交 pull request，请确保你的代码风格和项目已有的代码保持一致，遵循 PEP 8，变量命名清晰，有适当的注释。
+如果你在使用过程中发现任何问题，可以 [提交issue](https://github.com/Barrierml/ImgViewer/issues) 啦
