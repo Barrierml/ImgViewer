@@ -1,0 +1,34 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>动画</title>
+    <style>
+        .bc {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 101;
+            overflow: hidden;
+            transition: background-color .2s ease-in-out;
+            background-color: rgba(26, 26, 26, .65);
+            padding-bottom: 10px;
+        }
+    </style>
+    <script src="ImgViewer.js"></script>
+</head>
+
+<body>
+    <div style="height: 900px;">
+        <img id="img" class="hahah hahah2" style="width: 300px; margin-left: 100px;" src="img/1.jpg">
+        <img id="img2" style="width: 300px; margin-left: 100px;" src="img/3.jpg">
+    </div>
+</body>
+<script>
+    //绑定全部
+    console.log(ImgViewer.BindAllImg());
+</script>
+
+</html>
