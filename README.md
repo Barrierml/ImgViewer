@@ -9,7 +9,7 @@
 - 可拔插：  引入即可使用
 
 ## 原理
-1.创建一个`width` `height` `element.x` `element.y`与原图片相同的图片浮层
+1.创建一个`width` `height` `element.x` `element.y`与原图片相同的图片浮层  
 2.对新创建的图片进行transform
 
 
