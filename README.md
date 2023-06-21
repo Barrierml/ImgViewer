@@ -15,8 +15,11 @@
 
 ## 运行效果
 横屏效果
-![宽屏](img/example1.gif)  
+
+![宽屏](img/example1.gif)
+
 竖屏效果
+
 ![窄屏](img/example2.gif)
 
 ## 安装
