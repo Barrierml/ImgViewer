@@ -12,6 +12,12 @@
 1.创建一个`width` `height` `element.x` `element.y`与原图片相同的图片浮层  
 2.对新创建的图片进行transform
 
+## 快速开始
+```javascript
+// 自动绑定当前页面所有的 img 元素，BindImgList 为绑定成功的元素列表
+var BindImgList = ImgViewer.BindAllImg()
+```
+
 
 ## 运行效果
 横屏效果
